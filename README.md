@@ -63,8 +63,8 @@ Before running a ALX listing application, ensure your have the following install
 
 1. ### Clone or Download ALX listing app
     ``` bash
-    git clone <repository-url>
-    cd <alx-listing-app>
+    git clone https://github.com/larryQuao/alx-listing-app.git
+    cd alx-listing-app
     ```
 2. ### Install Dependencies
     ```
