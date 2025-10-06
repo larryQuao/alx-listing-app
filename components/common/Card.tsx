@@ -1,0 +1,1 @@
+// Card component with Tailwind CSS styles
